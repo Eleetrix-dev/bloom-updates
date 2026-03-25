@@ -69,8 +69,7 @@ Chaque mise à jour apporte des améliorations UI/UX et performances.
 
 ## 💡 Vision
 
-Créer un OS moderne, rapide et intelligent,  
-centré sur l’expérience utilisateur.
+Rendre Windows plus stable, plus fluide, rapide, sans bugs.
 
 ---
 
