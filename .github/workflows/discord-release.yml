@@ -1,0 +1,38 @@
+name: Discord Release Notification
+
+on:
+  release:
+    types: [published]
+
+jobs:
+  notify:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Send Discord Notification
+        run: |
+          curl -H "Content-Type: application/json" \
+          -d '{
+            "username": "Bloom OS",
+            "embeds": [{
+              "title": "🌸 Nouvelle version disponible !",
+              "description": "**Bloom 1.0b — Version de lancement**\n\n🚀 Le beta test arrive très bientôt !",
+              "color": 16753920,
+              "fields": [
+                {
+                  "name": "✨ Nouveautés",
+                  "value": "- UI finalisée\n- Système de mise à jour\n- Expérience optimisée",
+                  "inline": false
+                },
+                {
+                  "name": "🐛 Corrections",
+                  "value": "- Tags fix\n- Fond d’écran fix\n- Stabilité améliorée",
+                  "inline": false
+                }
+              ],
+              "footer": {
+                "text": "Bloom OS"
+              }
+            }]
+          }' \
+          ${{ secrets.DISCORD_WEBHOOK }}
