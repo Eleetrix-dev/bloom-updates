@@ -1,12 +1,14 @@
 {
     "version": "1.1.0-beta",
     "version_name": "1.1b",
-    "release_date": "2026-03-25",
-    "download_url": "",
-    "download_size_mb": 0,
+    "release_date": "2026-03-27",
+    "download_url": "https://github.com/Eleetrix-dev/bloom-updates/releases/download/v1.1b/Bloom_0.1.0_x64-setup.exe",
+    "download_size_mb": 3.9,
     "sha256": "",
     "changelog": [
-        "Première version publique de Bloom"
+        "Test du système de mise à jour",
+        "Correction du système de tags",
+        "Améliorations diverses"
     ],
     "min_version": "0.0.0",
     "critical": false
