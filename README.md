@@ -9,7 +9,7 @@
 ## 🚀 Version actuelle
 **🆕 Bloom 1.0b — Version de lancement**
 
-![Version](https://img.shields.io/github/v/release/TON_USER/TON_REPO?label=version)
+![Version](https://img.shields.io/github/v/release/Eleetrix-dev/bloom-updates?label=version)
 ![Status](https://img.shields.io/badge/status-beta-orange)
 
 ---
