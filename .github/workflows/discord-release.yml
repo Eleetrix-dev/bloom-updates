@@ -35,4 +35,4 @@ jobs:
               }
             }]
           }' \
-          ${{ UOomgg_x7UGPd4dHe5hUycOCU7o-WS2nzfdBuKV53iidhUYg8T1Ws1oj1eKx830DvZ5S }}
+          ${{ secrets.DISCORD_WEBHOOK }}
