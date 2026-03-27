@@ -9,7 +9,7 @@
 ## 🚀 Version actuelle
 **🆕 Bloom 1.0b — Version de lancement**
 
-![Version]([https://img.shields.io/github/v/release/Eleetrix-dev/bloom-updates?label=1.1.0b](https://github.com/Eleetrix-dev/bloom-updates/releases/download/setup/Bloom_0.1.0_x64-setup.exe))
+![Version]([https://img.shields.io/github/v/release/Eleetrix-dev/bloom-updates?label=1.1.0b])
 ![Status](https://img.shields.io/badge/status-beta-orange)
 
 ---
