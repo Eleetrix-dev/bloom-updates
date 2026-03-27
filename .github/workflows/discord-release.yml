@@ -15,7 +15,7 @@ jobs:
           -d '{
             "username": "Bloom OS",
             "embeds": [{
-              "title": "🌸 Nouvelle version disponible !",
+              "title": "🌸 Nouvelle version disponible : ${{ github.event.release.tag_name }}",
               "description": "**Bloom 1.0b — Version de lancement**\n\n🚀 Le beta test arrive très bientôt !",
               "color": 16753920,
               "fields": [
