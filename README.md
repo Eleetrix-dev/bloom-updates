@@ -1,7 +1,7 @@
 # 🌸 Bloom OS
 
 <p align="center">
-  <img src="https://via.placeholder.com/1200x300?text=Bloom+OS" alt="Bloom Banner"/>
+  <img src="https://github.com/Eleetrix-dev/bloom-updates/blob/main/Logo.jpg" alt="Bloom Banner"/>
 </p>
 
 <p align="center">
