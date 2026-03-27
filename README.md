@@ -1,80 +1,118 @@
 # 🌸 Bloom OS
 
-![Bloom Banner](https://via.placeholder.com/1200x300?text=Bloom+OS)
+<p align="center">
+  <img src="https://via.placeholder.com/1200x300?text=Bloom+OS" alt="Bloom Banner"/>
+</p>
 
-> Un shell Windows moderne, fluide et personnalisable.
+<p align="center">
+  <b>Un shell Windows moderne, fluide et personnalisable.</b><br>
+  Redéfinis ton bureau. Reprends le contrôle.
+</p>
 
 ---
 
-## 🚀 Version actuelle
-**🆕 Bloom 1.0b — Version de lancement**
+<p align="center">
+  <img src="https://img.shields.io/badge/version-1.0b-orange">
+  <img src="https://img.shields.io/badge/status-beta-yellow">
+  <img src="https://img.shields.io/badge/platform-Windows-blue">
+</p>
 
-![Version](https://img.shields.io/github/v/release/Eleetrix-dev/bloom-updates?label=1.1.0b)
-![Status](https://img.shields.io/badge/status-beta-orange)
+---
+
+## 🚀 Télécharger Bloom
+
+<p align="center">
+  <a href="https://github.com/Eleetrix-dev/bloom-updates/releases/download/setup/Bloom_0.1.0_x64-setup.exe">
+    <img src="https://img.shields.io/badge/Download-Bloom%201.0b-brightgreen?style=for-the-badge">
+  </a>
+</p>
 
 ---
 
 ## ✨ Fonctionnalités
 
-- 🧠 Shell Windows custom
-- 📁 Explorateur de fichiers avancé
-- 🧩 Widgets desktop
-- 🎨 Personnalisation complète
-- ⚡ Interface fluide (Tauri)
-- 🔄 Système de mise à jour intégré
+- 🧠 **Shell Windows personnalisé**
+- 📁 **Explorateur de fichiers avancé**
+- 🧩 **Widgets sur le bureau**
+- 🎨 **Personnalisation complète**
+- ⚡ **Interface ultra fluide (Tauri)**
+- 🔄 **Système de mise à jour intégré**
+- 🧭 **Navigation rapide et intuitive**
 
 ---
 
 ## 📸 Aperçu
 
-![Preview](https://via.placeholder.com/800x450?text=Bloom+Preview)
+<p align="center">
+  <img src="https://via.placeholder.com/800x450?text=Desktop+Bloom" width="80%"/>
+</p>
+
+<p align="center">
+  <img src="https://via.placeholder.com/800x450?text=File+Explorer" width="80%"/>
+</p>
 
 ---
 
-## 📦 Installation
+## 🆕 Version 1.0b — Lancement
 
-> 🚧 Bientôt disponible (beta test en cours)
+### ✨ Nouveautés
+- Lancement officiel de Bloom
+- Interface globale finalisée
+- Système de mise à jour intégré
+
+### 🐛 Corrections
+- Système de tags corrigé
+- Fond d’écran fonctionnel
+- Amélioration de la stabilité générale
 
 ---
 
 ## 🧪 Beta Test
 
-Le beta test arrive très prochainement.  
-Rejoins le Discord pour suivre l’avancement 👇
+Le beta test arrive très prochainement.
 
-👉 **[Rejoindre le Discord](https://discord.gg/bssYQGXs)**
+👉 Rejoins le Discord pour suivre l’évolution et tester Bloom :
+
+<p align="center">
+  <a href="https://discord.gg/bssYQGXs">
+    <img src="https://img.shields.io/badge/Discord-Rejoindre-5865F2?style=for-the-badge&logo=discord&logoColor=white">
+  </a>
+</p>
 
 ---
 
 ## 🛠️ Développement
 
-Bloom est en développement actif.  
-Chaque mise à jour apporte des améliorations UI/UX et performances.
+Bloom est en développement actif.
 
----
-
-## 📢 Dernière mise à jour (1.0b)
-
-### ✨ Nouveautés
-- Lancement officiel de Bloom
-- UI globale finalisée
-- Système de mise à jour intégré
-
-### 🐛 Corrections
-- Fix système de tags
-- Fix fond d’écran
-- Amélioration stabilité globale
+Objectifs :
+- améliorer les performances
+- optimiser la RAM
+- enrichir l’UX
+- ajouter des fonctionnalités intelligentes
 
 ---
 
 ## 💡 Vision
 
-Rendre Windows plus stable, plus fluide, rapide, sans bugs.
+Créer un environnement Windows :
+
+- plus fluide ⚡  
+- plus stable 🧱  
+- plus moderne 🎨  
+- centré utilisateur 🧠  
 
 ---
 
 ## 🧑‍💻 Auteur
 
-Projet créé par **Eleetrix**
+Projet développé par **Eleetrix**
+
+---
+
+## ⚠️ Disclaimer
+
+Bloom modifie le comportement du shell Windows.  
+Utiliser dans un environnement de test (VM recommandé).
 
 ---
