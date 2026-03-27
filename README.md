@@ -106,16 +106,10 @@ Créer un environnement Windows :
 
 ## 🧑‍💻 Auteur
 
-Projet développé par **Coderyx*
+Projet développé par **Coderyx**
 <p align="center">
   <img src="https://github.com/Eleetrix-dev/bloom-updates/blob/main/Logo_Coderyx.png" alt="Bloom Banner"/>
 </p>
 
 ---
 
-## ⚠️ Disclaimer
-
-Bloom modifie le comportement du shell Windows.  
-Utiliser dans un environnement de test (VM recommandé).
-
----
