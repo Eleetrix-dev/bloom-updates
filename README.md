@@ -1,7 +1,7 @@
 # 🌸 Bloom OS
 
 <p align="center">
-  <img src="https://github.com/Eleetrix-dev/bloom-updates/blob/main/Logo.jpg" alt="Bloom Banner"/>
+  <img src="https://github.com/Eleetrix-dev/bloom-updates/blob/main/Logo.png" alt="Bloom Banner"/>
 </p>
 
 <p align="center">
@@ -106,7 +106,10 @@ Créer un environnement Windows :
 
 ## 🧑‍💻 Auteur
 
-Projet développé par **Eleetrix**
+Projet développé par **Coderyx*
+<p align="center">
+  <img src="https://github.com/Eleetrix-dev/bloom-updates/blob/main/Logo_Coderyx.png" alt="Bloom Banner"/>
+</p>
 
 ---
 
